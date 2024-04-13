@@ -1,0 +1,67 @@
+
+.contenedor {
+    display: flex;
+    color: rgb(17, 17, 17);
+   
+    
+}
+    
+
+.Marco{
+    h1{text-align: center;
+        color:rgb(201, 5, 191);
+    }
+    
+    h3{ 
+        color: rgb(247, 8, 247);
+    
+    }
+    #imagen{
+        width: 150px;
+        height: 150px;   
+    }
+    width: 300px;
+   padding: 20px;
+    margin: 20px;
+    margin-bottom: 680px;
+    margin-left: 15px;
+    border: solid;
+    border-color: blueviolet;
+    text-align: center;
+ p {
+    font-size: 15px;
+ }   
+
+}
+.parte2{
+    #imagen2{
+        width: 220px;
+        height: 220px;
+    }
+
+    #imagen3{
+        width: 220px;
+        height: 220px;
+    }
+    #titulo2{text-align: center;
+     color: rgb(99, 5, 250);}
+     
+     width: 700px;
+ padding: 20px;
+ margin: 20px;
+ margin-right: 300px;
+ /* border: solid; */
+ border-color: rgb(200, 153, 243);
+    
+ #subtitulo2 {
+    color: rgb(31, 178, 247);
+ }
+ 
+ } 
+
+
+  
+
+
+
+    
